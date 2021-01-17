@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "gptnode", "gptnode.njsproj", "{E8C7A508-2C55-4BBE-8D8E-D92C3A238220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C7A508-2C55-4BBE-8D8E-D92C3A238220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C7A508-2C55-4BBE-8D8E-D92C3A238220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C7A508-2C55-4BBE-8D8E-D92C3A238220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C7A508-2C55-4BBE-8D8E-D92C3A238220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62246669-2678-4C5C-9021-6450F2ECA89D}
+	EndGlobalSection
+EndGlobal

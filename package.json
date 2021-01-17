@@ -1,0 +1,9 @@
+{
+  "name": "gptnode",
+  "version": "0.0.0",
+  "description": "gptnode",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
